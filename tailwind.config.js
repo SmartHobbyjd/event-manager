@@ -14,6 +14,10 @@ module.exports = {
       },
       boxShadow: {
         custom: '1.5px 2.598076105117798px 5px rgba(119,119,119,0.1)'
+      },
+      screens: {
+        '2xl': '1440px',
+        '3xl': '1920px',
       }
     },
   },
